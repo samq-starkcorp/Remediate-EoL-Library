@@ -43,7 +43,7 @@
     <dependency>
          <groupId>commons-fileupload</groupId>
          <artifactId>commons-fileupload</artifactId>
-         <version>1.4</version> <!-- C285874 Whitesource vulnerability  -->
+         <version>1.5</version> <!-- C285874 Whitesource vulnerability  -->
     </dependency>
     <dependency>
         <groupId>commons-logging</groupId>
